@@ -98,6 +98,7 @@ The image is shipped with the following stable plugins:
 * control-flow-plugin 
 * pyramid-plugin 
 * gdal-plugin
+* inspire-plugin
 
 If you need to use other plugin you just pass an environment variable on startup which will
 activate the plugin ie
